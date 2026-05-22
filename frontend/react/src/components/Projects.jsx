@@ -31,7 +31,7 @@ function Projects() {
           </p>
 
           <a
-            href="https://github.com/nagapriya15/dashboard"
+            href="https://github.com/varshitha327/dashboard"
             target="_blank"
           >
             <button>GitHub</button>

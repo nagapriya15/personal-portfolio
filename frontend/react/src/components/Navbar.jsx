@@ -2,7 +2,7 @@ function Navbar() {
   return (
     <nav>
 
-      <h2>Naga Priya</h2>
+      <h2>Varshitha</h2>
 
       <ul>
         <li><a href="#home">Home</a></li>

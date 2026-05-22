@@ -4,7 +4,7 @@ function About() {
       <h1>About Me</h1>
 
       <p>
-        I am an AIML student passionate about Full Stack Development,
+        I am Varshitha, an AIML student passionate about Full Stack Development,
         Artificial Intelligence, Machine Learning, and Web Technologies.
       </p>
 

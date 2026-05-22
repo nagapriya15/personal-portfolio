@@ -5,7 +5,7 @@ function Home() {
     <section id="home" className="home">
 
       <div className="home-text">
-        <h1>Hello, I'm Naga Priya</h1>
+        <h1>Hello, I'm Varshitha</h1>
 
         <h3>AIML Student | Full Stack Developer</h3>
 
